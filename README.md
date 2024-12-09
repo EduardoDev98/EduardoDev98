@@ -16,7 +16,7 @@ Explorando novas ideias e criando projetos inovadores. Confira o que estou const
 <br>
   
 <p>
-  <a href="https://www.https://www.linkedin.com/in/eduardo-ribeirodev/">
+  <a href="https://www.https://https://www.linkedin.com/in/eduardo-garcia-ribeiro/">
   <img align="left" alt="Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>  
   </a>
 </p>
