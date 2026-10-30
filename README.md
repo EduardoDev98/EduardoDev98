@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor focado em **back-end e automação**, construindo sistemas que resolvem problemas reais de operação. Hoje desenvolvo e mantenho ferramentas internas e automações **em produção**, usadas diariamente pela equipe de uma empresa do setor contábil — do código até a infraestrutura onde elas rodam.
+Desenvolvedor focado em **back-end e automação**, construindo sistemas que resolvem problemas reais de operação. Hoje desenvolvo e mantenho ferramentas internas e automações **em produção**, usadas diariamente pela equipe de uma empresa do setor contábil, do código até a infraestrutura onde elas rodam.
 
 Antes do software, passei **mais de 6 anos na área técnica de eletrônica e automação**, liderando equipes e implantando sistemas. Dessa fase veio o hábito de investigar a causa raiz antes de sair mexendo.
 
