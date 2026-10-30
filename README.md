@@ -85,16 +85,7 @@ const eduardo = {
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoDev98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDev98&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=EduardoDev98&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoDev98&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -112,7 +103,7 @@ const eduardo = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Construindo+solu%C3%A7%C3%B5es+reais+com+c%C3%B3digo+e+automa%C3%A7%C3%A3o;Bora+trocar+uma+ideia%3F+Me+chama+no+LinkedIn!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=800&lines=Construindo+solu%C3%A7%C3%B5es+reais+com+c%C3%B3digo+e+automa%C3%A7%C3%A3o;Bora+trocar+uma+ideia%3F+Me+chama+no+LinkedIn!" />
 </p>
 
 <!-- Rodapé animado -->
