@@ -38,7 +38,7 @@ const eduardo = {
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,nextjs,python&perline=8" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,docker,linux,git,github&perline=7" />
 </p>
@@ -73,6 +73,7 @@ const eduardo = {
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
+| ✂️ **Cortezzy** · *código privado* | Sistema de gestão para uma rede de barbearias com 2 unidades: agenda sem conflito de horário, caixa, comissões, assinaturas com cobrança recorrente no cartão, site com agendamento e bot do WhatsApp. Isolamento por unidade no banco (RLS), 2FA, LGPD e 226 testes automáticos | NestJS · Next.js · PostgreSQL · Docker |
 | 🍔 [**DevBurguer**](#) | Aplicação completa de hamburgueria com cadastro, gerenciamento e pagamentos com Stripe | React · Node.js · Docker |
 | 🛒 [**Cart Shopee**](#) | Carrinho de compras | JavaScript · Node.js |
 | 🏎️ [**Mario Kart**](#) | Projeto de corrida em JavaScript | JavaScript |
